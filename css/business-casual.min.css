@@ -98,7 +98,7 @@ p{
 	.navbar-nav 
 	.nav-item 
 	.nav-link{
-		font-size: 1rem
+		font-size: 1.15rem
 }
 
 #mainNav 
@@ -118,11 +118,11 @@ p{
 
 .btn-xl{
 	font-weight:700;
-	font-size:.8rem;
-	padding-top:1.5rem;
-	padding-bottom:1.5rem;
-	padding-left:2rem;
-	padding-right:2rem
+	font-size:1.3rem;
+	padding-top:1rem;
+	padding-bottom:1rem;
+	padding-left:1.5rem;
+	padding-right:1.5rem
 }
 
 .intro{
