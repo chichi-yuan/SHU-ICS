@@ -90,7 +90,7 @@ p{
 .navbar-nav 
 .nav-item.active 
 .nav-link{
-	color:#e6a756
+	color:#ffc107
 }
 
 @media (min-width:992px){
@@ -98,7 +98,7 @@ p{
 	.navbar-nav 
 	.nav-item 
 	.nav-link{
-		font-size:.9rem
+		font-size:.12rem
 }
 
 #mainNav 
