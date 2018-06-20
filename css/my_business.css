@@ -36,3 +36,10 @@ h5 {
   text-transform: none;
   margin-top: 1.35rem;
 }
+
+.site-heading-lower {
+  font-family: inherit;
+  text-transform: none;
+  font-weight: 100;
+  line-height: 4rem;
+}
