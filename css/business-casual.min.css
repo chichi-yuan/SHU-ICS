@@ -242,10 +242,6 @@ p{
 }
 
 .list-hours 
-.list-hours-item.today{
-	font-weight:700;
-	color:#e6a756
-}
 
 @media (min-width:992px){
 	.list-hours{
