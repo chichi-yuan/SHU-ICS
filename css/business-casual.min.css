@@ -230,7 +230,8 @@ p{
 }
 
 .list-hours{
-	font-size:1.2rem
+	font-size:1.2rem;
+	color: #e6a756;
 }
 
 .list-hours 
@@ -241,7 +242,6 @@ p{
 	font-style:italic
 }
 
-.list-hours 
 
 
 @media (min-width:992px){
