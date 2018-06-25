@@ -49,13 +49,14 @@ h5 {
 }
 
 .container-4 input#search{
-  width: 250px;
-  height: 40px;
+  width: 180px;
+  height: 30px;
   background: #fffff;
   border: none;
   font-size: 10pt;
+  font-weight: bold;
   float: left;
-  color: #fff;
+  color: #21466f;
   padding-left: 15px;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
@@ -88,7 +89,7 @@ h5 {
  
   border: none;
   background: #fffff;
-  height: 40px;
+  height: 30px;
   width: 51px;
   color: #627282;
   opacity: 0;
