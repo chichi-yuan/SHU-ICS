@@ -125,6 +125,17 @@ p{
 	padding-right:1.5rem
 }
 
+.btn-x2{
+    font-weight: 700;
+    font-size: 1rem;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    margin-left: 650px;
+    margin-top: -110px;
+}
+
 .intro{
 	position:relative
 }
