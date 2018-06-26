@@ -189,6 +189,7 @@ p{
 	position:absolute;
 	top:-.5rem;bottom:-.5rem;
 	left:-.5rem;right:-.5rem;
+}
 	
 @media (min-width:992px){
 	.about-heading 
