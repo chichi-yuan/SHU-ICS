@@ -136,6 +136,16 @@ p{
     margin-top: -50px;
 }
 
+btn-x3{
+    font-weight: 700;
+    font-size: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    margin-top: -25px;
+}
+
 .intro{
 	position:relative
 }
